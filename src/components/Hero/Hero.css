@@ -1,0 +1,177 @@
+.heroTop{
+    background-color:#FF5437;
+    height: 316px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.heroTop h1{
+    padding-top: 30px;
+    margin:0 90px;
+    font-family: Poppins;
+    font-size: 96px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+.heroTopText {
+    /* border: 1px solid red; */
+    margin-top: -100px;
+    /* margin-right: 50px; */
+}
+.heroTopText h2{
+    display: inline-block;
+    margin: 0 100px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+}
+.heroTopText h2:nth-child(2){
+    margin-left: 40px;
+}
+.heroBody h1{
+    margin: 177px 214px  0px;
+    /* margin-left: 214px; */
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: left;
+
+}
+.heroBody h2{
+    margin-left:214px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 72px;
+    width: 409px;
+}
+.heroBody h3{
+    margin-left: 214px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 168px;
+    width: 403px;
+}
+.heroBody2{
+    margin-top: 247px;
+    height: 644px;
+    width: 100%;
+    background-color: #F2F2F2;
+    /* border: 1px solid red; */
+}
+.heroBody2 h1{
+    padding-top: 177px ;
+    margin-left: 806px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    /* text-align: left; */
+    height: 20px;
+    width: 159px;
+}
+.heroBody2 h2{
+    margin:0 806px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    height: 72px;
+    width: 396px;
+}
+.heroBody2 h3{
+    margin-left: 806px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    height: 168px;
+    width: 403px;    
+}
+.herophone{
+    width: 376px;
+    height: 548px;
+    margin-left: 236px;
+    margin-top: -340px;
+    float: left;
+    overflow: hidden;
+}
+
+
+.herofoot{
+    height: 997px;
+    width: 100%;
+    background: #222222;
+}
+.herofoot h1{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 100px;
+    color: white;
+}
+.herofoot h2{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}
+.herofoot h3{
+    margin-left: 431px ;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 48px;
+    width: 478px;
+    color: white;
+}
+.herofootphone{
+    height: 492px;
+    width: 400px;
+    margin-left: 460px;
+    margin-top: 31px;
+    float: left;
+    overflow: hidden;
+}
+.line{
+    height: 2px;
+    width: 600px;
+    margin: 523px 370px 0 ;
+    background: #E5E5E5;
+
+}
+.sun{
+    margin-left:545px ;
+    margin-top: 41px;
+}
